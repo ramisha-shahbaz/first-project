@@ -1,0 +1,14 @@
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\bin\Debug\net8.0\assignment  1.exe
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\bin\Debug\net8.0\assignment  1.deps.json
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\bin\Debug\net8.0\assignment  1.runtimeconfig.json
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\bin\Debug\net8.0\assignment  1.dll
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\bin\Debug\net8.0\assignment  1.pdb
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\obj\Debug\net8.0\assignment  1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\obj\Debug\net8.0\assignment  1.AssemblyInfoInputs.cache
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\obj\Debug\net8.0\assignment  1.AssemblyInfo.cs
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\obj\Debug\net8.0\assignment  1.csproj.CoreCompileInputs.cache
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\obj\Debug\net8.0\assignment  1.dll
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\obj\Debug\net8.0\refint\assignment  1.dll
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\obj\Debug\net8.0\assignment  1.pdb
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\obj\Debug\net8.0\assignment  1.genruntimeconfig.cache
+C:\Users\IQ SOFTTECH\source\repos\WinFormsApp1\WinFormsApp1\assignment  1\assignment  1\obj\Debug\net8.0\ref\assignment  1.dll
